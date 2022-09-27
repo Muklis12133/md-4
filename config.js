@@ -372,7 +372,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ OSCAR'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ KLIZZ-MD'
 
 global.multiplier = 38 // The higher, The harder levelup
 
