@@ -1,7 +1,7 @@
 import fs from'fs'
 let { MessageType } = (await import('@adiwajshing/baileys')).default
 let handler = async (m, { conn }) => {
-let whmods = fs.readFileSync('./tmp/hay.opus') 
+let whmods = fs.readFileSync('./tmp/Bot.opus') 
 conn.sendFile(m.chat, whmods, '', '', m, true)
 }
 
